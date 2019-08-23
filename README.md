@@ -3,7 +3,7 @@
 ## Project Description 
 
 * The project is a simple react-native app used to display all the restaurants with a particular cuisine and particular city .
-* The project uses [zomato api] (https://developers.zomato.com)and also [google geocode api](https://developers.google.com/maps/documentation/geocoding/start)   .
+* The project uses [zomato api](https://developers.zomato.com) and also [google geocode api](https://developers.google.com/maps/documentation/geocoding/start)   .
 
 ## Project Setup 
 
