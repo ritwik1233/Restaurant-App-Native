@@ -3,7 +3,7 @@
 ## Project Description 
 
 * The project is a simple react-native app used to display all the restaurants with a particular cuisine and particular city .
-* The project uses (https://developers.zomato.com)[zomato api] and also (https://developers.google.com/maps/documentation/geocoding/start)[ google geolocation api] .
+* The project uses [zomato api] (https://developers.zomato.com)and also [google geocode api](https://developers.google.com/maps/documentation/geocoding/start)   .
 
 ## Project Setup 
 
@@ -22,3 +22,4 @@ module.exports = keys;
 ```
 ### Project Dependencies
 * Run command " npm install --save " to install the project dependencies .
+
