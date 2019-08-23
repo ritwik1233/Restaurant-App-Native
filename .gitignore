@@ -10,3 +10,4 @@ npm-debug.*
 web-build/
 web-report/
 src/keys
+package-lock.json
