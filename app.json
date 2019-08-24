@@ -20,14 +20,12 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["assets/*"],
     "ios": {
       "supportsTablet": true
     },
     "android": {
-      "package": "com.ritwik.Food"
+      "package": "com.ritwik.food"
     }
   }
 }

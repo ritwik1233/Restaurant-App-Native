@@ -1,6 +1,7 @@
 import React, { useState, Fragment }from 'react';
 import { View, StyleSheet, Text, Image, Button } from 'react-native';
 
+
 const SearchItem = ({ restaurant }) => {
     const [seeMore,setseeMore] = useState(false)
     

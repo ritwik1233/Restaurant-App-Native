@@ -9,5 +9,5 @@ npm-debug.*
 *.orig.*
 web-build/
 web-report/
-src/keys
 package-lock.json
+/src/keys/keys.js
